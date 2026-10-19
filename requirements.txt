@@ -1,0 +1,5 @@
+# On top of the organisers' starter repo environment
+numpy
+pillow
+scikit-image
+scipy
